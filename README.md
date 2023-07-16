@@ -1,5 +1,5 @@
 # HackerRank-Js
-Desafios do Site HackerRank lnguagem Javascript
+Desafios do Site HackerRank linguagem Javascript
 
 Neste Reposítorio vc encontrará códigos escritos em Javascript que resolvem desafios de Arrays  e loops for , for of , while etc  este desafio foi proposto e criado  pela instituição de ensino Cubos Academy para os estudantes do curso de desenvolvedores de software backend.
 
